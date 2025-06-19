@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="amazonTest.TestCase1_LoginToAmazonLogout"/>
+      <class name="amazonTest.TestCase2_ValidLogin"/>
+      <class name="amazonTest.TestCase3_InvalidLogin"/>
+      <class name="amazonTest.TestCase4_ProfileEdit2"/>
+      <class name="amazonTest.TestCase6_SearchFilters"/>
+      <class name="amazonTest.TestCase7_ProductDetails"/>
+      <class name="amazonTest.TestCase8_ProductSort"/>
+      <class name="amazonTest.TestCase9_AddToCart"/>
+      <class name="amazonTest.TestCase10_UpdateQuantities"/>
+      <class name="amazonTest.TestCase11_ValidateCheckoutPage"/>
+      <class name="amazonTest.TestCase12_paymentPage2"/>
+      <class name="amazonTest.TestCase14_YourOrders"/>
+      <class name="amazonTest.TestCase15_CartWithoutLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
