@@ -11,7 +11,7 @@ import amazonPackage.AmzProductDetailPage;
 //@Listeners(amazanUtil.MyListenerTest.class)
 public class TestCase10_UpdateQuantities extends BaseClass
 {
-	SoftAssert softassert=new SoftAssert();
+	
 	
 		@Test//(retryAnalyzer=IRetrylogic.class)
 	

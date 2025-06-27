@@ -1,8 +1,11 @@
+C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonPackage\AmzCouponCode.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonPackage\AmzAddtoCart.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonPackage\AmzInvalidLoginPage.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase11_ValidateCheckoutPage.java
+C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase13_ApplyCoupon.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase4_ProfileEdit2.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase2_ValidLogin.java
+C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonPackage\AmzCardDetailsPage.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase15_CartWithoutLogin.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase8_ProductSort.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\IRetrylogic.java
@@ -14,6 +17,7 @@ C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazanUtil\DataFetching.
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonPackage\AmzLoginPage.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonPackage\AmzProductDetailPage.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase14_YourOrders.java
+C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase16_CardDetails.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazanUtil\MyListenerTest.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase9_AddToCart.java
 C:\Users\anbuj\eclipse-workspace\project1\src\test\java\amazonTest\TestCase7_ProductDetails.java

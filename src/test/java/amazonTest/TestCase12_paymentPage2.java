@@ -29,18 +29,14 @@ public class TestCase12_paymentPage2 extends BaseClass
 			loginpage.pwd();
 			loginpage.sigin();
 			
-			homepage.searchingtheproduct();
-			AmzProductDetailPage pdpage=new AmzProductDetailPage(driver);
-			pdpage.firstProduct();
-			pdpage.switchToNewWindow();
-			pdpage.productAdd2Cart();
-			
+			homepage.clickCart();
 			AmzCartPage cartPage=new AmzCartPage(driver);
-			cartPage.Cart();
 			cartPage.Checkout();
 			
-			AmzCheckoutPage payement=new AmzCheckoutPage(driver);
-			payement.paymentOption();
+			AmzPaymentPage payement=new AmzPaymentPage(driver);
+			payement.paymentSelection();
+			
+			
 		}
 
 }

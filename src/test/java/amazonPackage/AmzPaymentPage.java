@@ -18,36 +18,45 @@ public class AmzPaymentPage {
 	WebDriver driver;
 	WebDriverWait wait;
 	//step 1
-	@FindBy(xpath="//a[@id='change-delivery-link']")	WebElement chngDeliveryAddr;
+	@FindBy(xpath="(//div[@class='a-radio'])[2]")	WebElement bajaj;
 	
-	@FindBy(xpath="(//input[@class='a-button-input'])[1]")	WebElement usepayment;
+	@FindBy(xpath="(//div[@class='a-radio'])[3]")	WebElement amazonPay;
 	
-	@FindBy(xpath="//input[contains(@value,'COD')]")	WebElement cashOnDelivery;
+	@FindBy(xpath="(//div[@class='a-radio'])[4]")	WebElement credit_debitCard;
 	
-	@FindBy(xpath="//span[normalize-space()='Amazon Pay']")	WebElement amazonPay;
+	@FindBy(xpath="(//div[@class='a-radio'])[1]")	WebElement amazonPayBalance;
 	
-	@FindBy(xpath="//span[normalize-space()='Amazon Pay']")	WebElement paynyUPI;
+	@FindBy(xpath="(//div[@class='a-radio'])[5]")	WebElement otherUPI;
 
-	@FindBy(xpath="//form[@id='pp-smirND-105']")	WebElement form;
+	@FindBy(xpath="(//div[@class='a-radio'])[6]")	WebElement cod;
 	
 	
 	//step 2
 	
-	public void paymentOption()
+	public void paymentSelection() throws InterruptedException
 	{
-		driver.switchTo().frame(form);
-		wait.until(ExpectedConditions.elementToBeClickable(amazonPay)).click(); 		 
-		wait.until(ExpectedConditions.elementToBeClickable(usepayment)).click();
-		Assert.assertTrue(driver.getPageSource().contains("Order Summary") || 
-                driver.getTitle().contains("Place your order"), "Order Review not reached");
-		Reporter.log("Order review reached successfully");
+		wait.until(ExpectedConditions.elementToBeClickable(amazonPayBalance));
+		amazonPayBalance.click();
+		Assert.assertFalse(amazonPayBalance.getAttribute("class").contains("a-radio-selected"));
+		System.out.println("Selected AmazonPayBalance ");
+				
+		bajaj.click();
+		System.out.println("Selected Bajaj Finser");
+		
+		amazonPay.click();
+		System.out.println("Selected AmazonPay");
+		
+		credit_debitCard.click();
+		System.out.println("Selected credit_debitCard");
+		
+		otherUPI.click();
+		Assert.assertFalse(otherUPI.getAttribute("class").contains("a-radio-selected"));
+		System.out.println("Selected otherUPI");
+		Reporter.log("selected each payment ");
+		
+		
 	}
-	public void DeliveryAddress()
-	{
-		wait.until(ExpectedConditions.elementToBeClickable(chngDeliveryAddr));
-		 Assert.assertTrue(chngDeliveryAddr.isDisplayed(), "Order Review section is not visible or clickable");
-		 Reporter.log("Address verified");
-	 }
+	
 	
 	
 	//step 3

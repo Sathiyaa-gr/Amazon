@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results retried="7" ignored="0" total="20" passed="13" failed="0" skipped="0">
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[Chrome browser launching]]>
     </line>
     <line>
+      <![CDATA[Sorted by Price: Low to High]]>
+    </line>
+    <line>
+      <![CDATA[Sorted by Price: Low to High]]>
+    </line>
+    <line>
+      <![CDATA[Sorted by Customer Review]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
       <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Profile Name edited]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
@@ -14,13 +53,7 @@
       <![CDATA[Invalid password]]>
     </line>
     <line>
-      <![CDATA[Chrome browser launching]]>
-    </line>
-    <line>
-      <![CDATA[Chrome browser launching]]>
-    </line>
-    <line>
-      <![CDATA[Profile Name edited]]>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
@@ -29,34 +62,121 @@
       <![CDATA[Brand verified]]>
     </line>
     <line>
-      <![CDATA[Chrome browser launching]]>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
     </line>
     <line>
-      <![CDATA[Chrome browser launching]]>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[switched to child window]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
     </line>
     <line>
-      <![CDATA[Chrome browser launching]]>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[switched to child window]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
     </line>
     <line>
-      <![CDATA[Chrome browser launching]]>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[switched to child window]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Product deleted]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
     </line>
     <line>
-      <![CDATA[Chrome browser launching]]>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[5 star rating given]]>
+    </line>
+    <line>
+      <![CDATA[writen review for product]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Selected credit_debitCard]]>
+    </line>
+    <line>
+      <![CDATA[Error 1: Card number is not correct.]]>
+    </line>
+    <line>
+      <![CDATA[Error 2: Expiration date is not correct.]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[productdescription verified]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[switched to child window]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
     </line>
     <line>
       <![CDATA[Payment verified]]>
@@ -68,27 +188,36 @@
       <![CDATA[OrderReview verified]]>
     </line>
     <line>
-      <![CDATA[Chrome browser launching]]>
-    </line>
-    <line>
-      <![CDATA[Payment verified]]>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
     </line>
     <line>
-      <![CDATA[Chrome browser launching]]>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
     <line>
       <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[selected each payment ]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-06-19T13:00:04 EDT" name="Suite" finished-at="2025-06-19T13:06:49 EDT" duration-ms="404355">
+  <suite started-at="2025-06-26T23:22:02 EDT" name="Suite" finished-at="2025-06-26T23:26:49 EDT" duration-ms="287444">
     <groups>
     </groups>
-    <test started-at="2025-06-19T13:00:04 EDT" name="Test" finished-at="2025-06-19T13:06:49 EDT" duration-ms="404355">
+    <test started-at="2025-06-26T23:22:02 EDT" name="Test" finished-at="2025-06-26T23:26:49 EDT" duration-ms="287444">
       <class name="amazonTest.TestCase14_YourOrders">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-19T13:05:47 EDT" name="browserlaunch" finished-at="2025-06-19T13:05:49 EDT" duration-ms="2468" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-26T23:24:39 EDT" name="browserlaunch" finished-at="2025-06-26T23:24:42 EDT" duration-ms="2993" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -102,168 +231,29 @@
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-19T13:05:49 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:06:00 EDT" duration-ms="10046" status="SKIP">
-          <exception class="org.openqa.selenium.json.JsonException">
-            <message>
-              <![CDATA[java.lang.reflect.InvocationTargetException
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [5aaa23b39c23fbd4e68c24e31abd9448, actions {actions=[org.openqa.selenium.interactions.Sequence@347b370c]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62755}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62755/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 5aaa23b39c23fbd4e68c24e31abd9448]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [5aaa23b39c23fbd4e68c24e31abd9448, actions {actions=[org.openqa.selenium.interactions.Sequence@347b370c]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62755}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62755/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 5aaa23b39c23fbd4e68c24e31abd9448
-at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:520)
-at org.openqa.selenium.json.JsonOutput.lambda$new$16(JsonOutput.java:182)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.lambda$new$22(JsonOutput.java:204)
-at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
-at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:197)
-at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
-at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939)
-at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
-at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
-at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
-at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:636)
-at org.openqa.selenium.json.JsonOutput.lambda$new$23(JsonOutput.java:204)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.lambda$new$24(JsonOutput.java:222)
-at java.base/java.util.Map.forEach(Map.java:733)
-at org.openqa.selenium.json.JsonOutput.lambda$new$25(JsonOutput.java:217)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:400)
-at org.openqa.selenium.json.Json.toJson(Json.java:133)
-at org.openqa.selenium.json.Json.toJson(Json.java:119)
-at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:245)
-at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:111)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:178)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:604)
-at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:603)
-at org.openqa.selenium.interactions.Actions.perform(Actions.java:568)
-at amazonPackage.AmzHomePage.hoveroveraccountandlist(AmzHomePage.java:49)
-at amazonTest.TestCase14_YourOrders.withvalidvredentails(TestCase14_YourOrders.java:19)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-Suppressed: org.openqa.selenium.json.JsonException: Attempting to close incomplete json stream
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: driver.version: RemoteWebDriver
-at org.openqa.selenium.json.JsonOutput.close(JsonOutput.java:431)
-at org.openqa.selenium.json.Json.toJson(Json.java:131)
-... 42 more
-Caused by: java.lang.reflect.InvocationTargetException
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:516)
-... 63 more
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='nav-line-2 ']"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [5aaa23b39c23fbd4e68c24e31abd9448, findElement {value=//span[@class='nav-line-2 '], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62755}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62755/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 5aaa23b39c23fbd4e68c24e31abd9448
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy13.getWrappedElement(Unknown Source)
-at org.openqa.selenium.interactions.PointerInput$Origin.asArg(PointerInput.java:259)
-at org.openqa.selenium.interactions.PointerInput$Move.encode(PointerInput.java:208)
-at org.openqa.selenium.interactions.Sequence.encode(Sequence.java:72)
-at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:81)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-... 65 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.json.JsonException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-19T13:06:00 EDT" name="browserquit" finished-at="2025-06-19T13:06:03 EDT" duration-ms="3018" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browserquit -->
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-19T13:06:03 EDT" name="browserlaunch" finished-at="2025-06-19T13:06:06 EDT" duration-ms="3062" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-26T23:24:42 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:24:54 EDT" duration-ms="12801" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Chrome browser launching]]>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[5 star rating given]]>
+            </line>
+            <line>
+              <![CDATA[writen review for product]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
             </line>
           </reporter-output>
-        </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-19T13:06:06 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:06:22 EDT" duration-ms="15837" status="PASS">
-          <reporter-output>
-          </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-19T13:06:22 EDT" name="browserquit" finished-at="2025-06-19T13:06:23 EDT" duration-ms="1558" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase14_YourOrders@5aa9e4eb]" started-at="2025-06-26T23:24:55 EDT" name="browserquit" finished-at="2025-06-26T23:24:55 EDT" duration-ms="420" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase14_YourOrders -->
       <class name="amazonTest.TestCase9_AddToCart">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase9_AddToCart@2f4948e4]" started-at="2025-06-19T13:03:07 EDT" name="browserlaunch" finished-at="2025-06-19T13:03:09 EDT" duration-ms="2187" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase9_AddToCart@10683d9d]" started-at="2025-06-26T23:23:47 EDT" name="browserlaunch" finished-at="2025-06-26T23:23:50 EDT" duration-ms="3073" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -277,17 +267,32 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase9_AddToCart@2f4948e4]" started-at="2025-06-19T13:03:09 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:03:37 EDT" duration-ms="28343" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase9_AddToCart@10683d9d]" started-at="2025-06-26T23:23:50 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:24:11 EDT" duration-ms="20603" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[switched to child window]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase9_AddToCart@2f4948e4]" started-at="2025-06-19T13:03:37 EDT" name="browserquit" finished-at="2025-06-19T13:03:39 EDT" duration-ms="1576" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase9_AddToCart@10683d9d]" started-at="2025-06-26T23:24:11 EDT" name="browserquit" finished-at="2025-06-26T23:24:12 EDT" duration-ms="588" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase9_AddToCart -->
       <class name="amazonTest.TestCase6_SearchFilters">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase6_SearchFilters@327514f]" started-at="2025-06-19T13:01:36 EDT" name="browserlaunch" finished-at="2025-06-19T13:01:39 EDT" duration-ms="3131" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase6_SearchFilters@2f4948e4]" started-at="2025-06-26T23:23:17 EDT" name="browserlaunch" finished-at="2025-06-26T23:23:19 EDT" duration-ms="2411" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -301,20 +306,23 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase6_SearchFilters@327514f]" started-at="2025-06-19T13:01:39 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:01:46 EDT" duration-ms="6699" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase6_SearchFilters@2f4948e4]" started-at="2025-06-26T23:23:19 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:23:28 EDT" duration-ms="8836" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Brand verified]]>
             </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase6_SearchFilters@327514f]" started-at="2025-06-19T13:01:46 EDT" name="browserquit" finished-at="2025-06-19T13:01:47 EDT" duration-ms="1435" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase6_SearchFilters@2f4948e4]" started-at="2025-06-26T23:23:28 EDT" name="browserquit" finished-at="2025-06-26T23:23:29 EDT" duration-ms="408" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase6_SearchFilters -->
       <class name="amazonTest.TestCase7_ProductDetails">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase7_ProductDetails@5b12b668]" started-at="2025-06-19T13:01:47 EDT" name="browserlaunch" finished-at="2025-06-19T13:01:50 EDT" duration-ms="2750" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase7_ProductDetails@385c9627]" started-at="2025-06-26T23:25:19 EDT" name="browserlaunch" finished-at="2025-06-26T23:25:21 EDT" duration-ms="2050" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -328,17 +336,26 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase7_ProductDetails@5b12b668]" started-at="2025-06-19T13:01:50 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:01:57 EDT" duration-ms="6980" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase7_ProductDetails@385c9627]" started-at="2025-06-26T23:25:21 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:25:31 EDT" duration-ms="10706" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[productdescription verified]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase7_ProductDetails@5b12b668]" started-at="2025-06-19T13:01:57 EDT" name="browserquit" finished-at="2025-06-19T13:01:59 EDT" duration-ms="1428" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase7_ProductDetails@385c9627]" started-at="2025-06-26T23:25:32 EDT" name="browserquit" finished-at="2025-06-26T23:25:32 EDT" duration-ms="435" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase7_ProductDetails -->
-      <class name="amazonTest.TestCase10_UpdateQuantities">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@1f2586d6]" started-at="2025-06-19T13:03:39 EDT" name="browserlaunch" finished-at="2025-06-19T13:03:42 EDT" duration-ms="2883" status="PASS">
+      <class name="amazonTest.TestCase16_CardDetails">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase16_CardDetails@6989da5e]" started-at="2025-06-26T23:24:55 EDT" name="browserlaunch" finished-at="2025-06-26T23:25:00 EDT" duration-ms="5076" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -352,17 +369,74 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@1f2586d6]" started-at="2025-06-19T13:03:42 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:04:04 EDT" duration-ms="21961" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase16_CardDetails@6989da5e]" started-at="2025-06-26T23:25:00 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:25:18 EDT" duration-ms="17667" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Selected credit_debitCard]]>
+            </line>
+            <line>
+              <![CDATA[Error 1: Card number is not correct.]]>
+            </line>
+            <line>
+              <![CDATA[Error 2: Expiration date is not correct.]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@1f2586d6]" started-at="2025-06-19T13:04:04 EDT" name="browserquit" finished-at="2025-06-19T13:04:06 EDT" duration-ms="1574" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase16_CardDetails@6989da5e]" started-at="2025-06-26T23:25:18 EDT" name="browserquit" finished-at="2025-06-26T23:25:19 EDT" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase16_CardDetails -->
+      <class name="amazonTest.TestCase10_UpdateQuantities">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@3fc2959f]" started-at="2025-06-26T23:24:12 EDT" name="browserlaunch" finished-at="2025-06-26T23:24:14 EDT" duration-ms="2241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@3fc2959f]" started-at="2025-06-26T23:24:14 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:24:38 EDT" duration-ms="23726" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[switched to child window]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Product deleted]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@3fc2959f]" started-at="2025-06-26T23:24:38 EDT" name="browserquit" finished-at="2025-06-26T23:24:39 EDT" duration-ms="544" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase10_UpdateQuantities -->
       <class name="amazonTest.TestCase15_CartWithoutLogin">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@6989da5e]" started-at="2025-06-19T13:06:23 EDT" name="browserlaunch" finished-at="2025-06-19T13:06:26 EDT" duration-ms="2374" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@1f2586d6]" started-at="2025-06-26T23:23:29 EDT" name="browserlaunch" finished-at="2025-06-26T23:23:34 EDT" duration-ms="5786" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -376,17 +450,29 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@6989da5e]" started-at="2025-06-19T13:06:26 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:06:47 EDT" duration-ms="21276" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@1f2586d6]" started-at="2025-06-26T23:23:34 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:23:47 EDT" duration-ms="12225" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[switched to child window]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@6989da5e]" started-at="2025-06-19T13:06:47 EDT" name="browserquit" finished-at="2025-06-19T13:06:49 EDT" duration-ms="1444" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@1f2586d6]" started-at="2025-06-26T23:23:47 EDT" name="browserquit" finished-at="2025-06-26T23:23:47 EDT" duration-ms="548" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase15_CartWithoutLogin -->
-      <class name="amazonTest.TestCase11_ValidateCheckoutPage">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@10683d9d]" started-at="2025-06-19T13:04:06 EDT" name="browserlaunch" finished-at="2025-06-19T13:04:08 EDT" duration-ms="2464" status="PASS">
+      <class name="amazonTest.TestCase13_ApplyCoupon">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase13_ApplyCoupon@682b2fa]" started-at="2025-06-26T23:26:10 EDT" name="browserlaunch" finished-at="2025-06-26T23:26:13 EDT" duration-ms="3282" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -400,144 +486,23 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@10683d9d]" started-at="2025-06-19T13:04:08 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:04:18 EDT" duration-ms="10075" status="SKIP">
-          <exception class="org.openqa.selenium.json.JsonException">
-            <message>
-              <![CDATA[java.lang.reflect.InvocationTargetException
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [44f01e78d65a3e3d3b295e904d14db86, actions {actions=[org.openqa.selenium.interactions.Sequence@4a9b92c6]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62071}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62071/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 44f01e78d65a3e3d3b295e904d14db86]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [44f01e78d65a3e3d3b295e904d14db86, actions {actions=[org.openqa.selenium.interactions.Sequence@4a9b92c6]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62071}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62071/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 44f01e78d65a3e3d3b295e904d14db86
-at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:520)
-at org.openqa.selenium.json.JsonOutput.lambda$new$16(JsonOutput.java:182)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.lambda$new$22(JsonOutput.java:204)
-at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
-at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:197)
-at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
-at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939)
-at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
-at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
-at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
-at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:636)
-at org.openqa.selenium.json.JsonOutput.lambda$new$23(JsonOutput.java:204)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.lambda$new$24(JsonOutput.java:222)
-at java.base/java.util.Map.forEach(Map.java:733)
-at org.openqa.selenium.json.JsonOutput.lambda$new$25(JsonOutput.java:217)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:400)
-at org.openqa.selenium.json.Json.toJson(Json.java:133)
-at org.openqa.selenium.json.Json.toJson(Json.java:119)
-at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:245)
-at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:111)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:178)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:604)
-at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:603)
-at org.openqa.selenium.interactions.Actions.perform(Actions.java:568)
-at amazonPackage.AmzHomePage.hoveroveraccountandlist(AmzHomePage.java:49)
-at amazonTest.TestCase11_ValidateCheckoutPage.withvalidvredentails(TestCase11_ValidateCheckoutPage.java:22)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-Suppressed: org.openqa.selenium.json.JsonException: Attempting to close incomplete json stream
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: driver.version: RemoteWebDriver
-at org.openqa.selenium.json.JsonOutput.close(JsonOutput.java:431)
-at org.openqa.selenium.json.Json.toJson(Json.java:131)
-... 42 more
-Caused by: java.lang.reflect.InvocationTargetException
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:516)
-... 63 more
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='nav-line-2 ']"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [44f01e78d65a3e3d3b295e904d14db86, findElement {value=//span[@class='nav-line-2 '], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62071}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62071/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 44f01e78d65a3e3d3b295e904d14db86
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy13.getWrappedElement(Unknown Source)
-at org.openqa.selenium.interactions.PointerInput$Origin.asArg(PointerInput.java:259)
-at org.openqa.selenium.interactions.PointerInput$Move.encode(PointerInput.java:208)
-at org.openqa.selenium.interactions.Sequence.encode(Sequence.java:72)
-at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:81)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-... 65 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.json.JsonException -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase13_ApplyCoupon@682b2fa]" started-at="2025-06-26T23:26:13 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:26:29 EDT" duration-ms="15953" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@10683d9d]" started-at="2025-06-19T13:04:18 EDT" name="browserquit" finished-at="2025-06-19T13:04:21 EDT" duration-ms="2986" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase13_ApplyCoupon@682b2fa]" started-at="2025-06-26T23:26:30 EDT" name="browserquit" finished-at="2025-06-26T23:26:30 EDT" duration-ms="484" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@10683d9d]" started-at="2025-06-19T13:04:21 EDT" name="browserlaunch" finished-at="2025-06-19T13:04:24 EDT" duration-ms="2948" status="PASS">
+      </class> <!-- amazonTest.TestCase13_ApplyCoupon -->
+      <class name="amazonTest.TestCase11_ValidateCheckoutPage">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@139982de]" started-at="2025-06-26T23:25:32 EDT" name="browserlaunch" finished-at="2025-06-26T23:25:35 EDT" duration-ms="2673" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -551,8 +516,20 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@10683d9d]" started-at="2025-06-19T13:04:24 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:05:03 EDT" duration-ms="38790" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@139982de]" started-at="2025-06-26T23:25:35 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:26:09 EDT" duration-ms="34641" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[switched to child window]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
             <line>
               <![CDATA[Payment verified]]>
             </line>
@@ -562,15 +539,18 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             <line>
               <![CDATA[OrderReview verified]]>
             </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@10683d9d]" started-at="2025-06-19T13:05:03 EDT" name="browserquit" finished-at="2025-06-19T13:05:05 EDT" duration-ms="1569" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@139982de]" started-at="2025-06-26T23:26:10 EDT" name="browserquit" finished-at="2025-06-26T23:26:10 EDT" duration-ms="480" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase11_ValidateCheckoutPage -->
       <class name="amazonTest.TestCase12_paymentPage2">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase12_paymentPage2@3fc2959f]" started-at="2025-06-19T13:05:05 EDT" name="browserlaunch" finished-at="2025-06-19T13:05:08 EDT" duration-ms="2920" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase12_paymentPage2@217ed35e]" started-at="2025-06-26T23:26:30 EDT" name="browserlaunch" finished-at="2025-06-26T23:26:33 EDT" duration-ms="3016" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -584,20 +564,26 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase12_paymentPage2@3fc2959f]" started-at="2025-06-19T13:05:08 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:05:45 EDT" duration-ms="37429" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase12_paymentPage2@217ed35e]" started-at="2025-06-26T23:26:33 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:26:49 EDT" duration-ms="15704" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Payment verified]]>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[selected each payment ]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
             </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase12_paymentPage2@3fc2959f]" started-at="2025-06-19T13:05:45 EDT" name="browserquit" finished-at="2025-06-19T13:05:47 EDT" duration-ms="1623" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase12_paymentPage2@217ed35e]" started-at="2025-06-26T23:26:49 EDT" name="browserquit" finished-at="2025-06-26T23:26:49 EDT" duration-ms="383" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase12_paymentPage2 -->
       <class name="amazonTest.TestCase8_ProductSort">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:01:59 EDT" name="browserlaunch" finished-at="2025-06-19T13:02:01 EDT" duration-ms="1989" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase8_ProductSort@71d44a3]" started-at="2025-06-26T23:22:02 EDT" name="browserlaunch" finished-at="2025-06-26T23:22:05 EDT" duration-ms="3037" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -611,401 +597,29 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:01 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:02:11 EDT" duration-ms="10041" status="SKIP">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#twotabsearchtextbox"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [4bc9809697cdb1e5ac6dcdb31cc2238f, findElement {value=twotabsearchtextbox, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61364}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61364/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 4bc9809697cdb1e5ac6dcdb31cc2238f]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#twotabsearchtextbox"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [4bc9809697cdb1e5ac6dcdb31cc2238f, findElement {value=twotabsearchtextbox, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61364}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61364/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 4bc9809697cdb1e5ac6dcdb31cc2238f
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy13.sendKeys(Unknown Source)
-at amazonPackage.AmzHomePage.searchingtheproduct(AmzHomePage.java:55)
-at amazonTest.TestCase8_ProductSort.withvalidvredentails(TestCase8_ProductSort.java:19)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:11 EDT" name="browserquit" finished-at="2025-06-19T13:02:12 EDT" duration-ms="1358" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browserquit -->
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:12 EDT" name="browserlaunch" finished-at="2025-06-19T13:02:15 EDT" duration-ms="2513" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase8_ProductSort@71d44a3]" started-at="2025-06-26T23:22:05 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:22:11 EDT" duration-ms="6433" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Chrome browser launching]]>
+              <![CDATA[Sorted by Price: Low to High]]>
             </line>
-          </reporter-output>
-        </test-method> <!-- browserlaunch -->
-        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:15 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:02:25 EDT" duration-ms="10044" status="SKIP">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#twotabsearchtextbox"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [d44d77c1b85d35194714536e766a2535, findElement {value=twotabsearchtextbox, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61419}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61419/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: d44d77c1b85d35194714536e766a2535]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#twotabsearchtextbox"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [d44d77c1b85d35194714536e766a2535, findElement {value=twotabsearchtextbox, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61419}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61419/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: d44d77c1b85d35194714536e766a2535
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy13.sendKeys(Unknown Source)
-at amazonPackage.AmzHomePage.searchingtheproduct(AmzHomePage.java:55)
-at amazonTest.TestCase8_ProductSort.withvalidvredentails(TestCase8_ProductSort.java:19)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:25 EDT" name="browserquit" finished-at="2025-06-19T13:02:26 EDT" duration-ms="1365" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browserquit -->
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:26 EDT" name="browserlaunch" finished-at="2025-06-19T13:02:30 EDT" duration-ms="3505" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
             <line>
-              <![CDATA[Chrome browser launching]]>
+              <![CDATA[Sorted by Price: Low to High]]>
             </line>
-          </reporter-output>
-        </test-method> <!-- browserlaunch -->
-        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:30 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:02:40 EDT" duration-ms="10049" status="SKIP">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#twotabsearchtextbox"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [3da283adf367ac836ed2fde4cffb0f24, findElement {value=twotabsearchtextbox, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61446}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61446/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 3da283adf367ac836ed2fde4cffb0f24]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#twotabsearchtextbox"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [3da283adf367ac836ed2fde4cffb0f24, findElement {value=twotabsearchtextbox, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61446}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61446/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 3da283adf367ac836ed2fde4cffb0f24
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy13.sendKeys(Unknown Source)
-at amazonPackage.AmzHomePage.searchingtheproduct(AmzHomePage.java:55)
-at amazonTest.TestCase8_ProductSort.withvalidvredentails(TestCase8_ProductSort.java:19)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:40 EDT" name="browserquit" finished-at="2025-06-19T13:02:42 EDT" duration-ms="1411" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browserquit -->
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:42 EDT" name="browserlaunch" finished-at="2025-06-19T13:02:44 EDT" duration-ms="2488" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
             <line>
-              <![CDATA[Chrome browser launching]]>
+              <![CDATA[Sorted by Customer Review]]>
             </line>
-          </reporter-output>
-        </test-method> <!-- browserlaunch -->
-        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:44 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:02:54 EDT" duration-ms="10017" status="SKIP">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#twotabsearchtextbox"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [562e591633b673a1f862656213d6d89c, findElement {value=twotabsearchtextbox, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61531}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61531/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 562e591633b673a1f862656213d6d89c]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#twotabsearchtextbox"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [562e591633b673a1f862656213d6d89c, findElement {value=twotabsearchtextbox, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61531}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61531/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 562e591633b673a1f862656213d6d89c
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy13.sendKeys(Unknown Source)
-at amazonPackage.AmzHomePage.searchingtheproduct(AmzHomePage.java:55)
-at amazonTest.TestCase8_ProductSort.withvalidvredentails(TestCase8_ProductSort.java:19)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:54 EDT" name="browserquit" finished-at="2025-06-19T13:02:56 EDT" duration-ms="1447" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browserquit -->
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:56 EDT" name="browserlaunch" finished-at="2025-06-19T13:02:59 EDT" duration-ms="2797" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
             <line>
-              <![CDATA[Chrome browser launching]]>
+              <![CDATA[Listener:Test is Pass]]>
             </line>
           </reporter-output>
-        </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:02:59 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:03:05 EDT" duration-ms="6363" status="PASS">
-          <reporter-output>
-          </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase8_ProductSort@6a78afa0]" started-at="2025-06-19T13:03:05 EDT" name="browserquit" finished-at="2025-06-19T13:03:07 EDT" duration-ms="1390" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase8_ProductSort@71d44a3]" started-at="2025-06-26T23:22:12 EDT" name="browserquit" finished-at="2025-06-26T23:22:12 EDT" duration-ms="410" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase8_ProductSort -->
       <class name="amazonTest.TestCase3_InvalidLogin">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase3_InvalidLogin@2d1ef81a]" started-at="2025-06-19T13:00:44 EDT" name="browserlaunch" finished-at="2025-06-19T13:00:47 EDT" duration-ms="2909" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase3_InvalidLogin@6a78afa0]" started-at="2025-06-26T23:23:05 EDT" name="browserlaunch" finished-at="2025-06-26T23:23:07 EDT" duration-ms="2232" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1019,7 +633,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withInvalidcredentails(java.lang.String,java.lang.String)[pri:0, instance:amazonTest.TestCase3_InvalidLogin@2d1ef81a]" started-at="2025-06-19T13:00:47 EDT" name="withInvalidcredentails" data-provider="logindata" finished-at="2025-06-19T13:00:55 EDT" duration-ms="7944" status="PASS">
+        <test-method signature="withInvalidcredentails(java.lang.String,java.lang.String)[pri:0, instance:amazonTest.TestCase3_InvalidLogin@6a78afa0]" started-at="2025-06-26T23:23:07 EDT" name="withInvalidcredentails" data-provider="logindata" finished-at="2025-06-26T23:23:16 EDT" duration-ms="8991" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1036,15 +650,18 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
             <line>
               <![CDATA[Invalid password]]>
             </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withInvalidcredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase3_InvalidLogin@2d1ef81a]" started-at="2025-06-19T13:00:55 EDT" name="browserquit" finished-at="2025-06-19T13:00:56 EDT" duration-ms="1417" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase3_InvalidLogin@6a78afa0]" started-at="2025-06-26T23:23:16 EDT" name="browserquit" finished-at="2025-06-26T23:23:17 EDT" duration-ms="450" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase3_InvalidLogin -->
       <class name="amazonTest.TestCase4_ProfileEdit2">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@4c402120]" started-at="2025-06-19T13:00:57 EDT" name="browserlaunch" finished-at="2025-06-19T13:00:59 EDT" duration-ms="2261" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@7e6f74c]" started-at="2025-06-26T23:22:25 EDT" name="browserlaunch" finished-at="2025-06-26T23:22:27 EDT" duration-ms="2764" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1058,171 +675,26 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@4c402120]" started-at="2025-06-19T13:00:59 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:01:09 EDT" duration-ms="10056" status="SKIP">
-          <exception class="org.openqa.selenium.json.JsonException">
-            <message>
-              <![CDATA[java.lang.reflect.InvocationTargetException
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c4fc5c2d2b8225d6f0ed73892954bed0, actions {actions=[org.openqa.selenium.interactions.Sequence@5dbb50f3]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60617}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60617/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: c4fc5c2d2b8225d6f0ed73892954bed0]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c4fc5c2d2b8225d6f0ed73892954bed0, actions {actions=[org.openqa.selenium.interactions.Sequence@5dbb50f3]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60617}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60617/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: c4fc5c2d2b8225d6f0ed73892954bed0
-at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:520)
-at org.openqa.selenium.json.JsonOutput.lambda$new$16(JsonOutput.java:182)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.lambda$new$22(JsonOutput.java:204)
-at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
-at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:197)
-at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
-at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939)
-at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
-at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
-at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
-at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:636)
-at org.openqa.selenium.json.JsonOutput.lambda$new$23(JsonOutput.java:204)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.lambda$new$24(JsonOutput.java:222)
-at java.base/java.util.Map.forEach(Map.java:733)
-at org.openqa.selenium.json.JsonOutput.lambda$new$25(JsonOutput.java:217)
-at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:409)
-at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:400)
-at org.openqa.selenium.json.Json.toJson(Json.java:133)
-at org.openqa.selenium.json.Json.toJson(Json.java:119)
-at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:245)
-at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:111)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:178)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:604)
-at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:603)
-at org.openqa.selenium.interactions.Actions.perform(Actions.java:568)
-at amazonPackage.AmzHomePage.hoveroveraccountandlist(AmzHomePage.java:49)
-at amazonTest.TestCase4_ProfileEdit2.withvalidvredentails(TestCase4_ProfileEdit2.java:17)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-Suppressed: org.openqa.selenium.json.JsonException: Attempting to close incomplete json stream
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: driver.version: RemoteWebDriver
-at org.openqa.selenium.json.JsonOutput.close(JsonOutput.java:431)
-at org.openqa.selenium.json.Json.toJson(Json.java:131)
-... 42 more
-Caused by: java.lang.reflect.InvocationTargetException
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:516)
-... 63 more
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='nav-line-2 ']"}
-  (Session info: chrome=137.0.7151.105)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c4fc5c2d2b8225d6f0ed73892954bed0, findElement {value=//span[@class='nav-line-2 '], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.105, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60617}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60617/devtoo..., se:cdpVersion: 137.0.7151.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: c4fc5c2d2b8225d6f0ed73892954bed0
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy13.getWrappedElement(Unknown Source)
-at org.openqa.selenium.interactions.PointerInput$Origin.asArg(PointerInput.java:259)
-at org.openqa.selenium.interactions.PointerInput$Move.encode(PointerInput.java:208)
-at org.openqa.selenium.interactions.Sequence.encode(Sequence.java:72)
-at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:81)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-... 65 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.json.JsonException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@4c402120]" started-at="2025-06-19T13:01:09 EDT" name="browserquit" finished-at="2025-06-19T13:01:10 EDT" duration-ms="1325" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browserquit -->
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@4c402120]" started-at="2025-06-19T13:01:10 EDT" name="browserlaunch" finished-at="2025-06-19T13:01:13 EDT" duration-ms="2286" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@7e6f74c]" started-at="2025-06-26T23:22:27 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:22:40 EDT" duration-ms="13031" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Chrome browser launching]]>
+              <![CDATA[Greeting message displayed]]>
             </line>
-          </reporter-output>
-        </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@4c402120]" started-at="2025-06-19T13:01:13 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:01:34 EDT" duration-ms="21333" status="PASS">
-          <reporter-output>
             <line>
               <![CDATA[Profile Name edited]]>
             </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@4c402120]" started-at="2025-06-19T13:01:34 EDT" name="browserquit" finished-at="2025-06-19T13:01:36 EDT" duration-ms="1505" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@7e6f74c]" started-at="2025-06-26T23:22:41 EDT" name="browserquit" finished-at="2025-06-26T23:22:41 EDT" duration-ms="529" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase4_ProfileEdit2 -->
       <class name="amazonTest.TestCase2_ValidLogin">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase2_ValidLogin@22ff4249]" started-at="2025-06-19T13:00:23 EDT" name="browserlaunch" finished-at="2025-06-19T13:00:25 EDT" duration-ms="2226" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase2_ValidLogin@44c03695]" started-at="2025-06-26T23:22:12 EDT" name="browserlaunch" finished-at="2025-06-26T23:22:16 EDT" duration-ms="4108" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1236,17 +708,23 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase2_ValidLogin@22ff4249]" started-at="2025-06-19T13:00:25 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:00:41 EDT" duration-ms="15444" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase2_ValidLogin@44c03695]" started-at="2025-06-26T23:22:16 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:22:24 EDT" duration-ms="7671" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase2_ValidLogin@22ff4249]" started-at="2025-06-19T13:00:41 EDT" name="browserquit" finished-at="2025-06-19T13:00:42 EDT" duration-ms="1440" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase2_ValidLogin@44c03695]" started-at="2025-06-26T23:22:24 EDT" name="browserquit" finished-at="2025-06-26T23:22:25 EDT" duration-ms="435" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase2_ValidLogin -->
       <class name="amazonTest.TestCase1_LoginToAmazonLogout">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@a1153bc]" started-at="2025-06-19T13:00:04 EDT" name="browserlaunch" finished-at="2025-06-19T13:00:09 EDT" duration-ms="4093" status="PASS">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@dd05255]" started-at="2025-06-26T23:22:41 EDT" name="browserlaunch" finished-at="2025-06-26T23:22:44 EDT" duration-ms="2298" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1260,11 +738,17 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
             </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@a1153bc]" started-at="2025-06-19T13:00:09 EDT" name="withvalidvredentails" finished-at="2025-06-19T13:00:21 EDT" duration-ms="12704" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@dd05255]" started-at="2025-06-26T23:22:44 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:23:03 EDT" duration-ms="19203" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@a1153bc]" started-at="2025-06-19T13:00:21 EDT" name="browserquit" finished-at="2025-06-19T13:00:23 EDT" duration-ms="1401" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@dd05255]" started-at="2025-06-26T23:23:03 EDT" name="browserquit" finished-at="2025-06-26T23:23:03 EDT" duration-ms="491" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->

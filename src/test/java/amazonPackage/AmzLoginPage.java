@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
-import org.testng.asserts.SoftAssert;
+import org.testng.Reporter;
 
 public class AmzLoginPage {
 	WebDriver driver;
@@ -36,11 +36,11 @@ public class AmzLoginPage {
 	
 	public void  sigin() throws InterruptedException
 	{
-		Thread.sleep(2000);
 		signin_link.click();
 		String txt =user_msg.getText();
 		System.out.println("Greeting message: " + txt);
 		Assert.assertTrue(txt.contains("Hello"), "Login failed - Greeting not found.");
+		Reporter.log("Greeting message displayed");
 		
 	}
 	public void pwd()

@@ -9,6 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Reporter;
 
 public class AmzYourOrdersPage 
 {
@@ -35,7 +36,6 @@ public class AmzYourOrdersPage
 	//step 2
 	public void orderPlacedin(String val)
 	{
-		
 		wait.until(ExpectedConditions.visibilityOf(orderplacedrp));		
 		Select s=new Select(orderplacedrp);
 		s.selectByValue(val);
@@ -44,6 +44,7 @@ public class AmzYourOrdersPage
 	{
 		wait.until(ExpectedConditions.visibilityOf(writeReview));		
 		writeReview.sendKeys("Very Good");
+		Reporter.log("writen review for product");
 	}
 
 	public void productReview()
@@ -55,7 +56,8 @@ public class AmzYourOrdersPage
 	public void rating()
 	{
 		wait.until(ExpectedConditions.visibilityOf(rating));		
-		rating.click();		
+		rating.click();	
+		Reporter.log("5 star rating given");
 	}
 	public void submitRating()
 	{

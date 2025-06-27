@@ -1,3 +1,4 @@
+
 package amazonTest;
 
 import org.testng.annotations.Listeners;
@@ -22,9 +23,7 @@ public class TestCase2_ValidLogin extends BaseClass
 			loginpage.continueUN();
 			loginpage.pwd();
 			loginpage.sigin();
-							
-			homepage.hoveroveraccountandlist(driver);
-			homepage.logout();
+			
 			
 			
 		}

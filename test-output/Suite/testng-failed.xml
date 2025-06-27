@@ -3,20 +3,13 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="amazonTest.TestCase11_ValidateCheckoutPage">
+      <class name="amazonTest.TestCase16_CardDetails">
         <methods>
           <include name="browserlaunch"/>
-          <include name="browserquit"/>
           <include name="withvalidvredentails"/>
-        </methods>
-      </class> <!-- amazonTest.TestCase11_ValidateCheckoutPage -->
-      <class name="amazonTest.TestCase8_ProductSort">
-        <methods>
-          <include name="withvalidvredentails"/>
-          <include name="browserlaunch"/>
           <include name="browserquit"/>
         </methods>
-      </class> <!-- amazonTest.TestCase8_ProductSort -->
+      </class> <!-- amazonTest.TestCase16_CardDetails -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

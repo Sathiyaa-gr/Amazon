@@ -6,7 +6,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.Reporter;
-import org.testng.asserts.SoftAssert;
 
 public class AmzInvalidLoginPage {
 	WebDriver driver;
@@ -37,7 +36,7 @@ public class AmzInvalidLoginPage {
 	
 	public void  sigin() throws InterruptedException
 	{
-		Thread.sleep(2000);
+		
 		signin_link.click();
 		Assert.assertEquals(getErrorMessage(), "Your password is incorrect");
 		Reporter.log("Invalid password");

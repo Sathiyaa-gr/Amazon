@@ -11,10 +11,11 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import org.testng.Reporter;
 
 public class AmzProductDetailPage {
 	WebDriver driver;
-	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+	WebDriverWait wait;
 	
 	//step 1
 	@FindBy(xpath="(//div[@class='a-section aok-relative s-image-tall-aspect'])[1]")
@@ -43,12 +44,14 @@ public class AmzProductDetailPage {
 	{
 		wait.until(ExpectedConditions.visibilityOf(firstProduct));
 		firstProduct.click();
+		 Reporter.log("clicked on the first Product");
 	}
 	public void productAdd2Cart() 
 	{
 		wait.until(ExpectedConditions.visibilityOf(productAddtocart));
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 	    js.executeScript("arguments[0].click();", productAddtocart);
+	    Reporter.log("Product added to cart");
 	}
 	public boolean productTitle() 
 	{
@@ -78,18 +81,18 @@ public class AmzProductDetailPage {
 		wait.until(ExpectedConditions.visibilityOf(discount));
         return discount.isDisplayed();
 	}
-	public boolean productdescription() 
+	public void productdescription() 
 	{
-		try {
+		//try {
 		JavascriptExecutor js=(JavascriptExecutor) driver;
-		//js.executeScript("arguments[0].scrollIntoView(true);", productdescription);
 		js.executeScript("window.scrollBy(0,1000)");
 		wait.until(ExpectedConditions.visibilityOf(productdescription));
-        return productdescription.isDisplayed();
-    } catch (Exception e) {
+        Assert.assertEquals(productdescription.isDisplayed(), true);
+        Reporter.log("productdescription verified");
+    /*} catch (Exception e) {
         System.out.println("Product description not found: " + e.getMessage());
         return false;
-    	}
+    	}*/
 }
 	
 	//step 3
@@ -109,6 +112,7 @@ public class AmzProductDetailPage {
 	            break;
 	        }
 	    }
+	    Reporter.log("switched to child window");
 	}
 	
 }

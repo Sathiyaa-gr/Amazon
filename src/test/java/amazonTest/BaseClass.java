@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -23,15 +24,16 @@ public WebDriver driver;
 	{
 		if(Browsername.equalsIgnoreCase("Chrome")) 
 		{
-			//driver=new ChromeDriver();
-			//Reporter.log("Chrome browser launching");
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("--incognito");
 			driver = new ChromeDriver(options);
+			Reporter.log("Chrome browser launching");
 			
 		}
 		if(Browsername.equalsIgnoreCase("Edge")) 
 		{
+			EdgeOptions options = new EdgeOptions();
+			options.addArguments("--incognito");
 			driver=new EdgeDriver();
 			Reporter.log("Edge browser launching");
 		}

@@ -13,6 +13,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import org.testng.Reporter;
 
 public class AmzCartPage {
 	WebDriver driver;
@@ -27,7 +28,7 @@ public class AmzCartPage {
 	public void Cart()
 	{
 		try {
-			Thread.sleep(2000);
+			
 		wait.until(ExpectedConditions.invisibilityOfElementLocated(
                 By.xpath("/a[normalize-space()='Go to Cart']")
                 
@@ -55,6 +56,7 @@ public class AmzCartPage {
 	    } catch (NoSuchElementException e) {
 	        System.out.println("Delete button not present on the page.");
 	    }
+		Reporter.log("Product deleted");
 	}
 	public void Checkout() 
 	{

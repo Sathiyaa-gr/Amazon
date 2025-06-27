@@ -58,7 +58,7 @@ public class AmzHomePage
 	
 	public void signin() throws InterruptedException
 	{
-		Thread.sleep(2000);
+		Thread.sleep(1000);
 		signin_link.click();
 		
 	}
@@ -77,7 +77,7 @@ public class AmzHomePage
 		JavascriptExecutor js=(JavascriptExecutor) driver;
 		js.executeScript("window.scrollBy(0, 30);");
 		js.executeScript("arguments[0].scrollIntoView(true);", cartIcon);
-        Thread.sleep(2000); // short wait to let scroll finish
+        Thread.sleep(2000); //  wait scroll finish
 
         // Click using JavaScript
         js.executeScript("arguments[0].click();", cartIcon);

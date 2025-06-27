@@ -12,6 +12,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import org.testng.Reporter;
 
 public class AmzProductSort {
 	WebDriver driver;
@@ -26,21 +27,24 @@ public class AmzProductSort {
 	{
 		Select select=new Select(sort);
 		select.selectByIndex(i);
-		System.out.println("Sorted by Price: Low to High");
+		//System.out.println("Sorted by Price: Low to High");
+		Reporter.log("Sorted by Price: Low to High");
 	}
 	public void sortProductValue(String value) 
 	{
 		Select select=new Select(sort);
 		select.selectByValue(value);
-		System.out.println("Sorted by Customer Review");
+		//System.out.println("Sorted by Customer Review");
+		Reporter.log("Sorted by Customer Review");
 	}
 	
 	public void sortProducttext(String text) 
 	{
 		Select select=new Select(sort);
 		select.selectByValue(text);
-		System.out.println("Sorted by Price: High to Low");
+		//System.out.println("Sorted by Price: High to Low");
 		Assert.assertEquals(driver.getTitle().contains("kids"), "Amazon.in : shoes for kids");
+		Reporter.log("Sorted by Price: High to Low");
 	}
 	//step 3
 	public AmzProductSort(WebDriver driver)

@@ -1,16 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results retried="2" ignored="0" total="17" passed="15" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Sorted by Price: Low to High]]>
+    </line>
+    <line>
+      <![CDATA[Sorted by Price: Low to High]]>
+    </line>
+    <line>
+      <![CDATA[Sorted by Customer Review]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is skiped]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Profile Name edited]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is skiped]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Invalid password]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
     <line>
       <![CDATA[Brand verified]]>
     </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[switched to child window]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[switched to child window]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[switched to child window]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Product deleted]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[5 star rating given]]>
+    </line>
+    <line>
+      <![CDATA[writen review for product]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Selected credit_debitCard]]>
+    </line>
+    <line>
+      <![CDATA[Error 1: Card number is not correct.]]>
+    </line>
+    <line>
+      <![CDATA[Error 2: Expiration date is not correct.]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[productdescription verified]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the first Product]]>
+    </line>
+    <line>
+      <![CDATA[switched to child window]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Payment verified]]>
+    </line>
+    <line>
+      <![CDATA[Address verified]]>
+    </line>
+    <line>
+      <![CDATA[OrderReview verified]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser launching]]>
+    </line>
+    <line>
+      <![CDATA[Greeting message displayed]]>
+    </line>
+    <line>
+      <![CDATA[selected each payment ]]>
+    </line>
+    <line>
+      <![CDATA[Listener:Test is Pass]]>
+    </line>
   </reporter-output>
-  <suite started-at="2025-06-19T16:36:18 EDT" name="Default suite" finished-at="2025-06-19T16:36:26 EDT" duration-ms="8390">
+  <suite started-at="2025-06-26T23:12:49 EDT" name="Suite" finished-at="2025-06-26T23:18:36 EDT" duration-ms="347227">
     <groups>
     </groups>
-    <test started-at="2025-06-19T16:36:18 EDT" name="Default test" finished-at="2025-06-19T16:36:26 EDT" duration-ms="8390">
-      <class name="amazonTest.TestCase6_SearchFilters">
-        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase6_SearchFilters@587e5365]" started-at="2025-06-19T16:36:18 EDT" name="browserlaunch" finished-at="2025-06-19T16:36:20 EDT" duration-ms="2532" status="PASS">
+    <test started-at="2025-06-26T23:12:49 EDT" name="Test" finished-at="2025-06-26T23:18:36 EDT" duration-ms="347227">
+      <class name="amazonTest.TestCase14_YourOrders">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase14_YourOrders@2a266d09]" started-at="2025-06-26T23:16:16 EDT" name="browserlaunch" finished-at="2025-06-26T23:16:20 EDT" duration-ms="4294" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -19,20 +244,727 @@
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase6_SearchFilters@587e5365]" started-at="2025-06-19T16:36:20 EDT" name="withvalidvredentails" finished-at="2025-06-19T16:36:25 EDT" duration-ms="4977" status="PASS">
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase14_YourOrders@2a266d09]" started-at="2025-06-26T23:16:20 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:16:32 EDT" duration-ms="12347" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[5 star rating given]]>
+            </line>
+            <line>
+              <![CDATA[writen review for product]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase14_YourOrders@2a266d09]" started-at="2025-06-26T23:16:33 EDT" name="browserquit" finished-at="2025-06-26T23:16:33 EDT" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase14_YourOrders -->
+      <class name="amazonTest.TestCase9_AddToCart">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase9_AddToCart@568ff82]" started-at="2025-06-26T23:15:25 EDT" name="browserlaunch" finished-at="2025-06-26T23:15:28 EDT" duration-ms="2936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase9_AddToCart@568ff82]" started-at="2025-06-26T23:15:28 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:15:50 EDT" duration-ms="21932" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[switched to child window]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase9_AddToCart@568ff82]" started-at="2025-06-26T23:15:50 EDT" name="browserquit" finished-at="2025-06-26T23:15:51 EDT" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase9_AddToCart -->
+      <class name="amazonTest.TestCase6_SearchFilters">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase6_SearchFilters@65b3f4a4]" started-at="2025-06-26T23:14:57 EDT" name="browserlaunch" finished-at="2025-06-26T23:15:01 EDT" duration-ms="3527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase6_SearchFilters@65b3f4a4]" started-at="2025-06-26T23:15:01 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:15:07 EDT" duration-ms="6164" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Brand verified]]>
             </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
           </reporter-output>
         </test-method> <!-- withvalidvredentails -->
-        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase6_SearchFilters@587e5365]" started-at="2025-06-19T16:36:26 EDT" name="browserquit" finished-at="2025-06-19T16:36:26 EDT" duration-ms="352" status="PASS">
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase6_SearchFilters@65b3f4a4]" started-at="2025-06-26T23:15:07 EDT" name="browserquit" finished-at="2025-06-26T23:15:07 EDT" duration-ms="373" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserquit -->
       </class> <!-- amazonTest.TestCase6_SearchFilters -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="amazonTest.TestCase7_ProductDetails">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase7_ProductDetails@186f8716]" started-at="2025-06-26T23:16:57 EDT" name="browserlaunch" finished-at="2025-06-26T23:17:00 EDT" duration-ms="3825" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase7_ProductDetails@186f8716]" started-at="2025-06-26T23:17:00 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:17:08 EDT" duration-ms="7841" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[productdescription verified]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase7_ProductDetails@186f8716]" started-at="2025-06-26T23:17:09 EDT" name="browserquit" finished-at="2025-06-26T23:17:09 EDT" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase7_ProductDetails -->
+      <class name="amazonTest.TestCase16_CardDetails">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase16_CardDetails@5ab9e72c]" started-at="2025-06-26T23:16:33 EDT" name="browserlaunch" finished-at="2025-06-26T23:16:35 EDT" duration-ms="2216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase16_CardDetails@5ab9e72c]" started-at="2025-06-26T23:16:35 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:16:56 EDT" duration-ms="20536" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Selected credit_debitCard]]>
+            </line>
+            <line>
+              <![CDATA[Error 1: Card number is not correct.]]>
+            </line>
+            <line>
+              <![CDATA[Error 2: Expiration date is not correct.]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase16_CardDetails@5ab9e72c]" started-at="2025-06-26T23:16:56 EDT" name="browserquit" finished-at="2025-06-26T23:16:57 EDT" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase16_CardDetails -->
+      <class name="amazonTest.TestCase10_UpdateQuantities">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@50caa560]" started-at="2025-06-26T23:15:51 EDT" name="browserlaunch" finished-at="2025-06-26T23:15:55 EDT" duration-ms="4060" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@50caa560]" started-at="2025-06-26T23:15:55 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:16:15 EDT" duration-ms="20126" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[switched to child window]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Product deleted]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase10_UpdateQuantities@50caa560]" started-at="2025-06-26T23:16:15 EDT" name="browserquit" finished-at="2025-06-26T23:16:16 EDT" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase10_UpdateQuantities -->
+      <class name="amazonTest.TestCase15_CartWithoutLogin">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@f2ff811]" started-at="2025-06-26T23:15:07 EDT" name="browserlaunch" finished-at="2025-06-26T23:15:10 EDT" duration-ms="2738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@f2ff811]" started-at="2025-06-26T23:15:10 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:15:24 EDT" duration-ms="14065" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[switched to child window]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase15_CartWithoutLogin@f2ff811]" started-at="2025-06-26T23:15:24 EDT" name="browserquit" finished-at="2025-06-26T23:15:25 EDT" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase15_CartWithoutLogin -->
+      <class name="amazonTest.TestCase13_ApplyCoupon">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase13_ApplyCoupon@45ca843]" started-at="2025-06-26T23:17:54 EDT" name="browserlaunch" finished-at="2025-06-26T23:17:59 EDT" duration-ms="4173" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase13_ApplyCoupon@45ca843]" started-at="2025-06-26T23:17:59 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:18:15 EDT" duration-ms="16099" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase13_ApplyCoupon@45ca843]" started-at="2025-06-26T23:18:15 EDT" name="browserquit" finished-at="2025-06-26T23:18:15 EDT" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase13_ApplyCoupon -->
+      <class name="amazonTest.TestCase11_ValidateCheckoutPage">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@1d8bd0de]" started-at="2025-06-26T23:17:09 EDT" name="browserlaunch" finished-at="2025-06-26T23:17:11 EDT" duration-ms="2312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@1d8bd0de]" started-at="2025-06-26T23:17:11 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:17:54 EDT" duration-ms="42427" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the first Product]]>
+            </line>
+            <line>
+              <![CDATA[switched to child window]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Payment verified]]>
+            </line>
+            <line>
+              <![CDATA[Address verified]]>
+            </line>
+            <line>
+              <![CDATA[OrderReview verified]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase11_ValidateCheckoutPage@1d8bd0de]" started-at="2025-06-26T23:17:54 EDT" name="browserquit" finished-at="2025-06-26T23:17:54 EDT" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase11_ValidateCheckoutPage -->
+      <class name="amazonTest.TestCase12_paymentPage2">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase12_paymentPage2@11c9af63]" started-at="2025-06-26T23:18:15 EDT" name="browserlaunch" finished-at="2025-06-26T23:18:18 EDT" duration-ms="2767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase12_paymentPage2@11c9af63]" started-at="2025-06-26T23:18:18 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:18:35 EDT" duration-ms="17004" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[selected each payment ]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase12_paymentPage2@11c9af63]" started-at="2025-06-26T23:18:35 EDT" name="browserquit" finished-at="2025-06-26T23:18:36 EDT" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase12_paymentPage2 -->
+      <class name="amazonTest.TestCase8_ProductSort">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase8_ProductSort@37271612]" started-at="2025-06-26T23:12:49 EDT" name="browserlaunch" finished-at="2025-06-26T23:13:00 EDT" duration-ms="11411" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase8_ProductSort@37271612]" started-at="2025-06-26T23:13:00 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:13:10 EDT" duration-ms="10054" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sorted by Price: Low to High]]>
+            </line>
+            <line>
+              <![CDATA[Sorted by Price: Low to High]]>
+            </line>
+            <line>
+              <![CDATA[Sorted by Customer Review]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase8_ProductSort@37271612]" started-at="2025-06-26T23:13:10 EDT" name="browserquit" finished-at="2025-06-26T23:13:11 EDT" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase8_ProductSort -->
+      <class name="amazonTest.TestCase3_InvalidLogin">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase3_InvalidLogin@1018bde2]" started-at="2025-06-26T23:14:46 EDT" name="browserlaunch" finished-at="2025-06-26T23:14:52 EDT" duration-ms="5160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withInvalidcredentails(java.lang.String,java.lang.String)[pri:0, instance:amazonTest.TestCase3_InvalidLogin@1018bde2]" started-at="2025-06-26T23:14:52 EDT" name="withInvalidcredentails" data-provider="logindata" finished-at="2025-06-26T23:14:57 EDT" duration-ms="5071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9940271110]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jaaaaa@1223]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Invalid password]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withInvalidcredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase3_InvalidLogin@1018bde2]" started-at="2025-06-26T23:14:57 EDT" name="browserquit" finished-at="2025-06-26T23:14:57 EDT" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase3_InvalidLogin -->
+      <class name="amazonTest.TestCase4_ProfileEdit2">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@60015ef5]" started-at="2025-06-26T23:13:28 EDT" name="browserlaunch" finished-at="2025-06-26T23:13:30 EDT" duration-ms="2112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@60015ef5]" started-at="2025-06-26T23:13:30 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:13:50 EDT" duration-ms="20389" status="SKIP">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=137.0.7151.120)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dd8b4c98ced4fde5f926e4026f4f2cf6, clickElement {id=f.B3103A38091C271DEAA76DFD8F4758EC.d.9AFC79A40D7D043049DF45E33B0DCB29.e.293}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53388}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53388/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (dd8b4c98ced4fde5f926e4026f4f2cf6)] -> xpath: //span[normalize-space()='Your Account']]
+Session ID: dd8b4c98ced4fde5f926e4026f4f2cf6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dd8b4c98ced4fde5f926e4026f4f2cf6, clickElement {id=f.B3103A38091C271DEAA76DFD8F4758EC.d.9AFC79A40D7D043049DF45E33B0DCB29.e.293}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53388}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53388/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (dd8b4c98ced4fde5f926e4026f4f2cf6)] -> xpath: //span[normalize-space()='Your Account']]
+Session ID: dd8b4c98ced4fde5f926e4026f4f2cf6
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at amazonPackage.AmzAccountPage.yourAccount(AmzAccountPage.java:23)
+at amazonTest.TestCase4_ProfileEdit2.withvalidvredentails(TestCase4_ProfileEdit2.java:28)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is skiped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@60015ef5]" started-at="2025-06-26T23:13:51 EDT" name="browserquit" finished-at="2025-06-26T23:13:51 EDT" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@60015ef5]" started-at="2025-06-26T23:13:51 EDT" name="browserlaunch" finished-at="2025-06-26T23:13:55 EDT" duration-ms="4306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@60015ef5]" started-at="2025-06-26T23:13:55 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:14:07 EDT" duration-ms="11890" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Profile Name edited]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase4_ProfileEdit2@60015ef5]" started-at="2025-06-26T23:14:08 EDT" name="browserquit" finished-at="2025-06-26T23:14:08 EDT" duration-ms="499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase4_ProfileEdit2 -->
+      <class name="amazonTest.TestCase2_ValidLogin">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase2_ValidLogin@55740540]" started-at="2025-06-26T23:13:11 EDT" name="browserlaunch" finished-at="2025-06-26T23:13:13 EDT" duration-ms="2190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase2_ValidLogin@55740540]" started-at="2025-06-26T23:13:13 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:13:27 EDT" duration-ms="13762" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase2_ValidLogin@55740540]" started-at="2025-06-26T23:13:27 EDT" name="browserquit" finished-at="2025-06-26T23:13:28 EDT" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase2_ValidLogin -->
+      <class name="amazonTest.TestCase1_LoginToAmazonLogout">
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@2f54a33d]" started-at="2025-06-26T23:14:08 EDT" name="browserlaunch" finished-at="2025-06-26T23:14:12 EDT" duration-ms="4402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method retried="true" signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@2f54a33d]" started-at="2025-06-26T23:14:12 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:14:30 EDT" duration-ms="17757" status="SKIP">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=137.0.7151.120)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [948394a46fdf3f354af0d02c1754bc25, clickElement {id=f.9C79136815F354E8AA0E99BC7782FE64.d.2A52D1D041B939E54B4DB0CDDF516C98.e.355}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53568}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53568/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (948394a46fdf3f354af0d02c1754bc25)] -> xpath: //span[normalize-space()='Sign Out']]
+Session ID: 948394a46fdf3f354af0d02c1754bc25]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [948394a46fdf3f354af0d02c1754bc25, clickElement {id=f.9C79136815F354E8AA0E99BC7782FE64.d.2A52D1D041B939E54B4DB0CDDF516C98.e.355}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\anbuj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53568}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53568/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (948394a46fdf3f354af0d02c1754bc25)] -> xpath: //span[normalize-space()='Sign Out']]
+Session ID: 948394a46fdf3f354af0d02c1754bc25
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at amazonPackage.AmzHomePage.logout(AmzHomePage.java:67)
+at amazonTest.TestCase1_LoginToAmazonLogout.withvalidvredentails(TestCase1_LoginToAmazonLogout.java:26)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is skiped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@2f54a33d]" started-at="2025-06-26T23:14:31 EDT" name="browserquit" finished-at="2025-06-26T23:14:31 EDT" duration-ms="479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+        <test-method is-config="true" signature="browserlaunch(java.lang.String)[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@2f54a33d]" started-at="2025-06-26T23:14:31 EDT" name="browserlaunch" finished-at="2025-06-26T23:14:35 EDT" duration-ms="4333" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="withvalidvredentails()[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@2f54a33d]" started-at="2025-06-26T23:14:35 EDT" name="withvalidvredentails" finished-at="2025-06-26T23:14:44 EDT" duration-ms="8721" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Greeting message displayed]]>
+            </line>
+            <line>
+              <![CDATA[Listener:Test is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withvalidvredentails -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:amazonTest.TestCase1_LoginToAmazonLogout@2f54a33d]" started-at="2025-06-26T23:14:44 EDT" name="browserquit" finished-at="2025-06-26T23:14:45 EDT" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- amazonTest.TestCase1_LoginToAmazonLogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

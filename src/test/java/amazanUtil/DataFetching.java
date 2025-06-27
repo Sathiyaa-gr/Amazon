@@ -25,8 +25,8 @@ public class DataFetching {
         
         Object[][] data = new Object[rowcount - 1][colcount]; // Skip header
         DataFormatter format = new DataFormatter();
-        String user = format.formatCellValue(wb.getSheet("amazon").getRow(1).getCell(0));
-        String pwd = format.formatCellValue(wb.getSheet("amazon").getRow(1).getCell(1));
+       // String user = format.formatCellValue(wb.getSheet("amazon").getRow(1).getCell(0));
+       // String pwd = format.formatCellValue(wb.getSheet("amazon").getRow(1).getCell(1));
 
         for (int i = 1; i < rowcount; i++) {
             Row row = s1.getRow(i);
