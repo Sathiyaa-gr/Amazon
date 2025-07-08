@@ -9,8 +9,8 @@ import amazonPackage.AmzInvalidLoginPage;
 public class TestCase3_InvalidLogin extends BaseClass
 {
 		
-	 	@Test(dataProvider="logindata",dataProviderClass=DataFetching.class)
-		public void withInvalidcredentails(String user,String pwd) throws InterruptedException
+	 	@Test(//dataProvider="logindata",dataProviderClass=DataFetching.class)
+		public void withInvalidcredentails() throws InterruptedException
 		{
 			
 			AmzHomePage homepage=new AmzHomePage(driver);
@@ -19,9 +19,9 @@ public class TestCase3_InvalidLogin extends BaseClass
 			
 			
 			AmzInvalidLoginPage loginpage=new AmzInvalidLoginPage(driver);
-			loginpage.un(user);
+			loginpage.un();
 			loginpage.continueUN();
-			loginpage.pwd(pwd);
+			loginpage.pwd();
 			loginpage.sigin();
 			
 					
