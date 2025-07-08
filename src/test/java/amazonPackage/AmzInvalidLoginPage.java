@@ -23,9 +23,9 @@ public class AmzInvalidLoginPage {
 
 		
 	//step 2
-	public void un(String user)
+	public void un()
 	{
-		username.sendKeys(user);
+		username.sendKeys();
 		
 	}
 	public void continueUN()
@@ -42,9 +42,9 @@ public class AmzInvalidLoginPage {
 		Reporter.log("Invalid password");
 	}
 	
-	public void pwd(String pwd)
+	public void pwd()
 	{
-			password.sendKeys(pwd);
+			password.sendKeys();
 			
 	}	
 	
