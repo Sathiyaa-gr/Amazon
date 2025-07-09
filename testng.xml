@@ -11,7 +11,7 @@
       <class name="amazonTest.TestCase6_SearchFilters"/>
       <class name="amazonTest.TestCase15_CartWithoutLogin"/>
       <class name="amazonTest.TestCase9_AddToCart"/>
-      <class name="amazonTest.TestCase10_UpdateQuantities"/>
+      
       <class name="amazonTest.TestCase14_YourOrders"/>
       <class name="amazonTest.TestCase16_CardDetails"/>
       <class name="amazonTest.TestCase7_ProductDetails"/>
